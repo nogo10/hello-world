@@ -1,1 +1,2 @@
-console.log(typeof thing)
+console.log(typeof thing);
+console.log("hello");
